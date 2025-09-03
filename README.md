@@ -22,9 +22,11 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 
 ## ⭐ Featured Projects
 
+<div align="center">
+
 [![Housing Card](https://github-readme-stats.vercel.app/api/pin/?username=varun-singh26&repo=Boston-College-Roommate-Search&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 [![Mahomebase Card](https://github-readme-stats.vercel.app/api/pin/?username=andybello28&repo=mahomebase&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ---
 
 <h2>🛠️ Tools and Stack</h2>
