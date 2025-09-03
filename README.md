@@ -1,7 +1,9 @@
 <div align="center">
-  
-  ## Hey! I'm Andy 👋
-  
+
+<img src="https://github.com/user-attachments/assets/80ad5369-a5f4-4eab-b008-277da90ce45c" alt="Happy Frog Sticker" width="100" />
+
+### 👋 I'm Andy! Nice to meet you!
+
 </div>
 
 <h2>
@@ -86,4 +88,3 @@ width="49%"
   <img src="https://komarev.com/ghpvc/?username=andybello&label=Profile%20Views&color=EF4444&style=for-the-badge" alt="Andy Bello's Profile Views" />
 
 </div>
-
