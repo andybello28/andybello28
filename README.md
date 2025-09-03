@@ -1,7 +1,5 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/80ad5369-a5f4-4eab-b008-277da90ce45c" alt="Happy Frog Sticker" width="100" />
-
-# 👋 I'm Andy! Nice to meet you!
 </div>
 
 ## 🚀 About Me
