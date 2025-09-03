@@ -20,6 +20,13 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 
 ---
 
+## ⭐ Featured Projects
+
+[![Housing Card](https://github-readme-stats.vercel.app/api/pin/?username=varun-singh26&repo=Boston-College-Roommate-Search&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahomebase Card](https://github-readme-stats.vercel.app/api/pin/?username=andybello28&repo=mahomebase&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <h2>🛠️ Tools and Stack</h2>
 
 <h3 align="center">⌨️ Programming Languages</h3>
@@ -44,7 +51,7 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 <div align="center">
 
 <img 
-  src="https://streak-stats.demolab.com/?user=andybello28&theme=monokai&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=Y/n/j&hide_border=true" 
+  src="https://streak-stats.demolab.com/?user=andybello28&theme=neon&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=Y/n/j&hide_border=true" 
   alt="GitHub Streak" 
   width="70%"
   style="min-width: 400px;"
