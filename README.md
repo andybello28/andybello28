@@ -19,6 +19,7 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 </p>
 
 ---
+<!-- 
 
 ## ⭐ Featured Projects
 
@@ -29,6 +30,7 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 </div>
 
 ---
+-->
 
 <h2>🛠️ Tools and Stack</h2>
 
