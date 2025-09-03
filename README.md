@@ -1,23 +1,20 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/80ad5369-a5f4-4eab-b008-277da90ce45c" alt="Happy Frog Sticker" width="100" />
 
-### 👋 I'm Andy! Nice to meet you!
+# 👋 I'm Andy! Nice to meet you!
 </div>
 
-<h2>
-  🚀 About Me
-</h2>
+## 🚀 About Me
 
 <div align="center" style="margin: 20px 0;">
-<img width="20" height="20" alt="Boston College Logo" src="https://github.com/user-attachments/assets/97124814-7bcc-41c5-89e5-3a277ca69c29" /> Junior at Boston College • <img src="https://github.com/user-attachments/assets/dc074c41-9734-4b16-9f88-02c9b0d0b181" alt="Computer" width="20" /> Bachelor of Science in Computer Science • 💼 Minor in Business
+<p align="center">
+I'm passionate about staying on top of the latest tech trends and using what I learn to build innovative, user-friendly solutions. In my free time, you’ll often find me hiking, hitting the gym, cheering on Boston sports teams, or enjoying a great movie.
+</p>
 </div>
 
 <br>
 
-
-<p align="center">
-I'm passionate about staying on top of the latest tech trends and using what I learn to build innovative, user-friendly solutions. In my free time, you’ll often find me hiking, hitting the gym, cheering on Boston sports teams, or enjoying a great movie.
-</p>
+<img width="20" height="20" alt="Boston College Logo" src="https://github.com/user-attachments/assets/97124814-7bcc-41c5-89e5-3a277ca69c29" /> Junior at Boston College • <img src="https://github.com/user-attachments/assets/dc074c41-9734-4b16-9f88-02c9b0d0b181" alt="Computer" width="20" /> Bachelor of Science in Computer Science • 💼 Minor in Business
 
 ---
 
@@ -41,6 +38,21 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 
 ---
 
+## 🔥 Contribution Streak
+<div align="center">
+
+<img 
+  src="https://streak-stats.demolab.com/?user=andybello28&theme=monokai&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=Y/n/j&hide_border=true" 
+  alt="GitHub Streak" 
+  width="70%"
+  style="min-width: 400px;"
+/>
+
+</div>
+
+---
+
+<!-- 
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -57,20 +69,7 @@ width="49%"
 </div>
 
 ---
-
-## 🔥 Contribution Streak
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com/?user=andybello28&theme=monokai&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=Y/n/j&hide_border=true" 
-  alt="GitHub Streak" 
-  width="70%"
-  style="min-width: 400px;"
-/>
-
-</div>
-
----
+-->
 
 ## 🤝 Connect with Me
 
