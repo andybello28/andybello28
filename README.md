@@ -15,7 +15,7 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 <br>
 
 <p align="center">
-<img width="20" height="20" alt="Boston College Logo" src="https://github.com/user-attachments/assets/97124814-7bcc-41c5-89e5-3a277ca69c29" /> Junior at Boston College | <img src="https://github.com/user-attachments/assets/dc074c41-9734-4b16-9f88-02c9b0d0b181" alt="Computer" width="20" /> Bachelor of Science in Computer Science | 💼 Minor in Business
+<img width="20" height="20" alt="Boston College Logo" src="https://github.com/user-attachments/assets/97124814-7bcc-41c5-89e5-3a277ca69c29" /> Junior at Boston College&nbsp;&nbsp;|&nbsp;&nbsp<img src="https://github.com/user-attachments/assets/dc074c41-9734-4b16-9f88-02c9b0d0b181" alt="Computer" width="20" /> Bachelor of Science in Computer Science&nbsp;&nbsp;|&nbsp;&nbsp💼 Minor in Business
 </p>
 
 ---
@@ -27,6 +27,7 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 [![Mahomebase Card](https://github-readme-stats.vercel.app/api/pin/?username=andybello28&repo=mahomebase&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 [![Housing Card](https://github-readme-stats.vercel.app/api/pin/?username=varun-singh26&repo=Boston-College-Roommate-Search&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 ---
 
 <h2>🛠️ Tools and Stack</h2>
