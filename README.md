@@ -1,13 +1,11 @@
 <div align="center">
-
 <img src="https://github.com/user-attachments/assets/80ad5369-a5f4-4eab-b008-277da90ce45c" alt="Happy Frog Sticker" width="100" />
 
 ### 👋 I'm Andy! Nice to meet you!
-
 </div>
 
 <h2>
-  📈 About Me
+  🚀 About Me
 </h2>
 
 <div align="center" style="margin: 20px 0;">
@@ -25,9 +23,25 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 
 <h2>🛠️ Tools and Stack</h2>
 
+<h3 align="center">⌨️ Programming Languages</h3>
+  <div align="center"><img src="https://skillicons.dev/icons?i=python,java,c,js&theme=light" alt="Tech Stack: Python, Java, C, JavaScript" /></div>
+
+<h3 align="center">⚙️ Technologies and Frameworks</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,express,nodejs,redis,firebase,postgresql&theme=light" alt="Technologies: React, Next.js, Express.js, Node.js, Tailwind CSS, Redis, Firebase, PostgreSQL" />
+</div>
+
+<h3 align="center">📊 Data Analytics & ML</h3>
+<div align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=light" alt="Data Analytics: PyTorch, Scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></div>
+
+
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <div align="center">
 <img 
