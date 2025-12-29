@@ -46,6 +46,9 @@ I'm passionate about staying on top of the latest tech trends and using what I l
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></div>
 
+<h3 align="center">🧠 Currently Learning About: </h3>
+<h4 align="center">🤖 MCP and Agentic AI</h4>
+
 
 ---
 
