@@ -1,13 +1,8 @@
-<div align="center">
-  
-# I'm Andy! Nice to meet you!
-</div>
-
 ## 🚀 About Me
 
 <div align="center" style="margin: 20px 0;">
 <p align="center">
-I'm passionate about staying on top of the latest tech trends and using what I learn to build innovative, user-friendly solutions. In my free time, you can find me hiking, hitting the gym, cheering on Boston sports teams, or enjoying a great movie.
+I'm Andy, nice to meet you! I'm passionate about staying on top of the latest tech trends and using what I learn to build innovative, user-friendly solutions. In my free time, you can find me hiking, hitting the gym, cheering on Boston sports teams, or enjoying a great movie.
 </p>
 </div>
 
