@@ -41,7 +41,7 @@ I'm Andy, nice to meet you! I'm passionate about staying on top of the latest te
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></div>
 
 <h3 align="center">🧠 Currently Learning About: </h3>
-<h4 align="center">🤖 MCP and Agentic AI</h4>
+<h4 align="center">🤖 MCP </h4>
 
 
 ---
